@@ -152,7 +152,7 @@ if __name__ == '__main__':
                   "goodboy", "bestdog", "funnydog", "funnydogs", "monkey", "funnymonkey", "hedgehog", "puppy", "kitten",
                   "animalfail", "ape", "funnyape", "pet", "bird", "funnybird", "birds", "elephant", "rabbit", "mouse",
                   "funnyrabbit", "funnyrabbit", ""]
-    userdata = [("libowner280@gmail.com",'fynpAn-vepquw-9fihpu'),("funkychunkymonkey0@gmail.com","qJfPWNSx7nCCqf"),("luckytheresafamilyguy769@gmail.com",'FRQw<eX<a"-4eeZ!'),("flippityfloop53@gmail.com",'g=Rw!>3"qbn`2^YB')]
+    userdata = []
     numofaccounts = [0,3,2,1]
     videos = []
     listoflinks = []
